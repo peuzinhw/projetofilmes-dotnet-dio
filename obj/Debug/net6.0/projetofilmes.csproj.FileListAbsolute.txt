@@ -1,0 +1,15 @@
+C:\Users\Pedro\workspace\projetofilmes\bin\Debug\net6.0\projetofilmes.exe
+C:\Users\Pedro\workspace\projetofilmes\bin\Debug\net6.0\projetofilmes.deps.json
+C:\Users\Pedro\workspace\projetofilmes\bin\Debug\net6.0\projetofilmes.runtimeconfig.json
+C:\Users\Pedro\workspace\projetofilmes\bin\Debug\net6.0\projetofilmes.dll
+C:\Users\Pedro\workspace\projetofilmes\bin\Debug\net6.0\projetofilmes.pdb
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.csproj.AssemblyReference.cache
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.AssemblyInfoInputs.cache
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.AssemblyInfo.cs
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.dll
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\refint\projetofilmes.dll
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.pdb
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\projetofilmes.genruntimeconfig.cache
+C:\Users\Pedro\workspace\projetofilmes\obj\Debug\net6.0\ref\projetofilmes.dll
